@@ -1,0 +1,18 @@
+/* TaskInput.css */
+
+.task-input {
+    display: flex;
+    margin-bottom: 1rem;
+  }
+  
+  .task-input input {
+    flex: 1; /* Take up remaining space */
+    padding: 0.5rem;
+    margin-right: 0.5rem;
+  }
+  
+  .task-input button {
+    padding: 0.5rem;
+    cursor: pointer;
+  }
+  
